@@ -1,6 +1,10 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Qudsia Imran
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Qudsia%20Imran&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=14%20Year%20Old%20Python%20Developer&descAlignY=55&descSize=25" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=14+Year+Old+Python+Developer;100%25+Focused+on+Python;Learning+Python+Every+Day;Python+is+My+Passion!" alt="Typing SVG" />
 </div>
 
@@ -10,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=qudsiaimran&label=Profile%20Views&color=3776AB&style=for-the-badge" alt="Profile Views" />
 </div>
 
-## 🐍 About Me
+## About Me
 
 ```python
 class QudsiaImran:
@@ -76,11 +80,7 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=qudsiaimran&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
 </div>
 
-## 🐍 Watch the Snake Eat My Contributions!
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ## 💼 What I'm Working On
 
