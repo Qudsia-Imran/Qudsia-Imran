@@ -1,9 +1,12 @@
-# 👋 Hi, I'm [Qudsia Imran]
-### Teen developer on a Python journey.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Teen%20developer%20on%20a%20Python%20journey&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%"/>
+
+</div>
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=pinkpastel&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 </div>
 
